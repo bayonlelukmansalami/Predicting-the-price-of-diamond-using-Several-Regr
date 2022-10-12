@@ -1,1 +1,1 @@
-# Predicting-the-price-of-diamond-using-Several-Regr
+# Predicting-the-price-of-diamond-using-Several-Regressor
